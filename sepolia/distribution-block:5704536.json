@@ -1,0 +1,31 @@
+{
+    "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+        "0x758d92D1ade72Bce33c5677a23208280c259F00A": {
+            "newPoints": 41143,
+            "accumulatingPoints": 164512,
+            "proof": [
+                "0xcdfcb60f4127433a5eb06a008d2b8a08dcb22fb7235d6baa9acbbdcac5f74a23",
+                "0x9b7ba51831ad17b8c167664b646e88c9eb3a202d5c46f64018efd30ed970a20f"
+            ]
+        }
+    },
+    "0xeeD5B3026060218Dc270AE672be6468053e65E39": {
+        "0x758d92D1ade72Bce33c5677a23208280c259F00A": {
+            "newPoints": 102859,
+            "accumulatingPoints": 411283,
+            "proof": [
+                "0x00d798495a8552dd2d1e41cf48bd094a06e8ce7d2646bbf7cb47217320fbd2a1",
+                "0x9b7ba51831ad17b8c167664b646e88c9eb3a202d5c46f64018efd30ed970a20f"
+            ]
+        }
+    },
+    "0x3D49dEa4035432968a531e663CDA96255867BFc1": {
+        "0xaE7035F02A1E310361B43d873363B15ECd928221": {
+            "newPoints": 0,
+            "accumulatingPoints": 3978362,
+            "proof": [
+                "0x4f2d601677b0cc4055787b7aaec4ef0c254c6d8a7fcd32b9bde1cced2d90cfbd"
+            ]
+        }
+    }
+}
