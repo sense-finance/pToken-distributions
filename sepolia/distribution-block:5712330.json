@@ -1,0 +1,35 @@
+{
+    "block": 5712330,
+    "date": "April 16, 2024 at 6:00:48 PM UTC",
+    "distribution": {
+        "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+            "0x758d92D1ade72Bce33c5677a23208280c259F00A": {
+                "newPoints": 1233221000000000000000000,
+                "accumulatingPoints": 1269426000000000000000000,
+                "proof": [
+                    "0xcdda21f20a1729316d229cc758325f6600f4bce43803fe2c69a9561c9a4cbd73",
+                    "0xe3a76f0767a23b5163797981e0e46c4f0b4b69947a7367eebf2f8fede772e627"
+                ]
+            }
+        },
+        "0xeeD5B3026060218Dc270AE672be6468053e65E39": {
+            "0x758d92D1ade72Bce33c5677a23208280c259F00A": {
+                "newPoints": 3083054000000000000000000,
+                "accumulatingPoints": 3173568000000000000000000,
+                "proof": [
+                    "0xab602ea409e4803c6de5f4e8fb317beb0802cd4f9d1f1c169978b4bb2191c86b",
+                    "0xe3a76f0767a23b5163797981e0e46c4f0b4b69947a7367eebf2f8fede772e627"
+                ]
+            }
+        },
+        "0x3D49dEa4035432968a531e663CDA96255867BFc1": {
+            "0xaE7035F02A1E310361B43d873363B15ECd928221": {
+                "newPoints": 4138240000000000000000000,
+                "accumulatingPoints": 4138240000000000000000000,
+                "proof": [
+                    "0xae9facdbbf734d6c8f5dad790c5428f71511f78881a7ab088c8c0f878574f06f"
+                ]
+            }
+        }
+    }
+}
