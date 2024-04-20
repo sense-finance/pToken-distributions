@@ -1,0 +1,54 @@
+{
+    "block": 5738039,
+    "date": "April 20, 2024 at 10:00:00 AM UTC",
+    "merkleRoot": "0x9cbe222cf45f1f12daaae815ae4edb04e4cb8e86a8abe8b700cfec6cd73f76ff",
+    "distribution": {
+        "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+            "0x10456967656e4c6179657220506f696e740370454c0000000000000000000000": {
+                "newPoints": 3043272000000000000000000,
+                "accumulatingPoints": 97301287000000000000000000,
+                "proof": [
+                    "0x45de6922af422a4746a55a1c61ad0b053b5b00345ae6d217e871e84458587f42",
+                    "0x8bb036a7ed5518fe3fdb1d78600f1644c7018480ec3bbbc5eea504d409c881ee"
+                ],
+                "breakdown": {
+                    "0x758d92D1ade72Bce33c5677a23208280c259F00A": {
+                        "newPoints": 3043272000000000000000000,
+                        "accumulatingPoints": 97301287000000000000000000
+                    }
+                }
+            }
+        },
+        "0xeeD5B3026060218Dc270AE672be6468053e65E39": {
+            "0x10456967656e4c6179657220506f696e740370454c0000000000000000000000": {
+                "newPoints": 7608182000000000000000000,
+                "accumulatingPoints": 243253256000000000000000000,
+                "proof": [
+                    "0xbd81c66ad8c6d7a2c13e14b6fd8d1b6baaa98c789705992ff58857e11e4b5af4",
+                    "0x8bb036a7ed5518fe3fdb1d78600f1644c7018480ec3bbbc5eea504d409c881ee"
+                ],
+                "breakdown": {
+                    "0x758d92D1ade72Bce33c5677a23208280c259F00A": {
+                        "newPoints": 7608182000000000000000000,
+                        "accumulatingPoints": 243253256000000000000000000
+                    }
+                }
+            }
+        },
+        "0x3D49dEa4035432968a531e663CDA96255867BFc1": {
+            "0x12312367656e4c6179657220506f696e740370454c0000000000000000000000": {
+                "newPoints": 4777750000000000000000000,
+                "accumulatingPoints": 199330755000000000000000000,
+                "proof": [
+                    "0xffc97a064a2e0ce2de33a4495cd2bff268d4e323684a443053c81e05341db475"
+                ],
+                "breakdown": {
+                    "0xaE7035F02A1E310361B43d873363B15ECd928221": {
+                        "newPoints": 4777750000000000000000000,
+                        "accumulatingPoints": 199330755000000000000000000
+                    }
+                }
+            }
+        }
+    }
+}
