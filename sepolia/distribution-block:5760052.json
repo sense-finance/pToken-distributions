@@ -1,0 +1,22 @@
+{
+    "block": 5760052,
+    "date": "April 23, 2024 at 12:00:36 PM UTC",
+    "merkleRoot": "0xde08f163c6427e607e9aff384057702b94a4fedafc4549310a9319343132f72b",
+    "distribution": {
+        "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+            "0x0e4554484552464920506f696e74730370454600000000000000000000000000": {
+                "newPoints": 12947114000000000000000000,
+                "accumulatingPoints": 280741468000000000000000000,
+                "proof": [
+                    "0x3f7cf27cb176d01c5ea43f7bc450ebc5052dcc67ccb2f6cbacd0f93fbaf3cb0d"
+                ],
+                "breakdown": {
+                    "0x791a051631c9c4cDf4E03Fb7Aec3163AE164A34B": {
+                        "newPoints": 12947114000000000000000000,
+                        "accumulatingPoints": 280741468000000000000000000
+                    }
+                }
+            }
+        }
+    }
+}
