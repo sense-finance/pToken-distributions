@@ -1,0 +1,24 @@
+{
+    "root": "0x63e6eeab1d7ded49e99c50731ad31f3d95706bd429931cc0688790b90bbbd9dc",
+    "meta": {
+        "block": 5772845,
+        "date": "2024-04-25T07:13:36.000Z",
+        "previousDate": "2024-04-25T07:04:00.000Z",
+        "previousBlock": 5772797
+    },
+    "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+        "0x0e4554484552464920506f696e74730370454600000000000000000000000000": {
+            "newPoints": 1057513000000000000000000,
+            "accumulatingPoints": 7877393000000000000000000,
+            "breakdown": {
+                "0x791a051631c9c4cDf4E03Fb7Aec3163AE164A34B": {
+                    "newPoints": 1057513000000000000000000,
+                    "accumulatingPoints": 7877393000000000000000000
+                }
+            },
+            "proof": [
+                "0xabc75a34ae3bc515dd6d8238bfb38289b6b5bb21a9dfa62ba4be4d3b3bbd0652"
+            ]
+        }
+    }
+}
