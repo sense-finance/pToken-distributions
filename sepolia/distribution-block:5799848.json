@@ -1,0 +1,73 @@
+{
+    "root": "0x8629036c7ac63cbd5f945d8fa07c5cdfa49f5063b9d957af4dd8e6f947e9b803",
+    "meta": {
+        "block": 5799848,
+        "date": "2024-04-29T03:25:12.000Z",
+        "previousDate": "2024-04-28T21:30:12.000Z",
+        "previousBlock": 5798196
+    },
+    "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+        "0x0e4554484552464920506f696e74730370454600000000000000000000000000": {
+            "newPoints": 4311631684000000000000000000,
+            "accumulatingPoints": 4780467927000000000000000000,
+            "breakdown": {
+                "0x791a051631c9c4cDf4E03Fb7Aec3163AE164A34B": {
+                    "newPoints": 35429687000000000000000000,
+                    "accumulatingPoints": 468836243000000000000000000
+                },
+                "0x82F3Fb7EEd215a489ecd02F4aD36a117323C210D": {
+                    "newPoints": 4311631684000000000000000000,
+                    "accumulatingPoints": 4311631684000000000000000000
+                }
+            },
+            "proof": [
+                "0x0bad2ad3e224be1b28b7dbce34a30e383690af9f9de189c2511fda8a58bc6ef8",
+                "0x3d396d881e9220264389c2d6175f5519645c116399684da70d63c33cc2907ef3"
+            ]
+        },
+        "0x11456967656e4c6179657220506f696e74730370454c00000000000000000000": {
+            "newPoints": 2737118000000000000000000,
+            "accumulatingPoints": 2737118000000000000000000,
+            "breakdown": {
+                "0x791a051631c9c4cDf4E03Fb7Aec3163AE164A34B": {
+                    "newPoints": 2737118000000000000000000,
+                    "accumulatingPoints": 2737118000000000000000000
+                }
+            },
+            "proof": [
+                "0xdde04524f6f47dba773d4fc3284449e21b1afd4f1fa8ef533a9fa0f8acd07a91",
+                "0x3d396d881e9220264389c2d6175f5519645c116399684da70d63c33cc2907ef3"
+            ]
+        }
+    },
+    "0x24C694d193B19119bcDea9D40a3b0bfaFb281E6D": {
+        "0x0e4554484552464920506f696e74730370454600000000000000000000000000": {
+            "newPoints": 2693419000000000000000000,
+            "accumulatingPoints": 10054805000000000000000000,
+            "breakdown": {
+                "0x791a051631c9c4cDf4E03Fb7Aec3163AE164A34B": {
+                    "newPoints": 2693419000000000000000000,
+                    "accumulatingPoints": 10054805000000000000000000
+                }
+            },
+            "proof": [
+                "0x7d746f631cd081f393de6ca315ca7fc8e2f9f6d289f9f1716b4cff2e7ca39c1e",
+                "0x1b902c4ac32e332b61ca854752a563a9a155ed82a47f75903733ac0acdcfef16"
+            ]
+        },
+        "0x11456967656e4c6179657220506f696e74730370454c00000000000000000000": {
+            "newPoints": 208079000000000000000000,
+            "accumulatingPoints": 208079000000000000000000,
+            "breakdown": {
+                "0x791a051631c9c4cDf4E03Fb7Aec3163AE164A34B": {
+                    "newPoints": 208079000000000000000000,
+                    "accumulatingPoints": 208079000000000000000000
+                }
+            },
+            "proof": [
+                "0x7fdc13fc9c217a6803b89340beefe5abd2f9e4ed15acfe6edde62e9e28142120",
+                "0x1b902c4ac32e332b61ca854752a563a9a155ed82a47f75903733ac0acdcfef16"
+            ]
+        }
+    }
+}
