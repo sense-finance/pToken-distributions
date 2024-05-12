@@ -8,12 +8,12 @@
     },
     "0x25E426b153e74Ab36b2685c3A464272De60888Ae": {
         "0x1852756d70656c206b506f696e743a20457468656e6120533206706b53415453": {
-            "newPoints": 0,
-            "accumulatingPoints": 0,
+            "newPoints": 10000000000000000,
+            "accumulatingPoints": 10000000000000000,
             "breakdown": {
                 "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
-                    "newPoints": 0,
-                    "accumulatingPoints": 0
+                    "newPoints": 10000000000000000,
+                    "accumulatingPoints": 10000000000000000
                 }
             },
             "proof": [
@@ -33,7 +33,7 @@
                 }
             },
             "proof": [
-                "0x3453b094ea0b28db5bb65c4e47a7af4486f8cf812bba8ba37833c32b075bff68",
+                "0x06363aa1f34016ed2fbd5b7c612432f6c832607625e2c4cf38f6a61f788b851c",
                 "0x637192a54b8bdba937720774469ef4e66bef685f788d3acf76929f408a531fd1"
             ]
         }
@@ -49,7 +49,7 @@
                 }
             },
             "proof": [
-                "0x6559655d0b185ad08c5e6fe4f1057fc82c213b93f5ba4ebb68f98bacb608a237"
+                "0x2c64c35823e6dcc10bf9f6064f771bb52b47d160ce559861f109b2557f2cb14b"
             ]
         }
     }
