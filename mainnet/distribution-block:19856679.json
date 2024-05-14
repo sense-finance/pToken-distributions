@@ -1,56 +1,9 @@
 {
-    "root": "0x0b198d1c1b068001d2c9ef9cbd2ee7e5dffcaed1f07b96090773ce23bbd183e0",
+    "root": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "meta": {
         "block": 19856679,
         "date": "2024-05-12T21:39:47.000Z",
         "previousDate": "1970-01-01T00:00:00.000Z",
         "previousBlock": 0
-    },
-    "0x25E426b153e74Ab36b2685c3A464272De60888Ae": {
-        "0x1852756d70656c206b506f696e743a20457468656e6120533206706b53415453": {
-            "newPoints": 12500000000000000,
-            "accumulatingPoints": 12500000000000000,
-            "breakdown": {
-                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
-                    "newPoints": 12500000000000000,
-                    "accumulatingPoints": 12500000000000000
-                }
-            },
-            "proof": [
-                "0x548b87acefd6b1a6e29b7ca3807f975911efec90ddb338a4dfa98c4c0b2475ff",            
-                "0x637192a54b8bdba937720774469ef4e66bef685f788d3acf76929f408a531fd1"        
-            ]
-        }
-    },
-    "0x24C694d193B19119bcDea9D40a3b0bfaFb281E6D": {
-        "0x1852756d70656c206b506f696e743a20457468656e6120533206706b53415453": {
-            "newPoints": 0,
-            "accumulatingPoints": 0,
-            "breakdown": {
-                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
-                    "newPoints": 0,
-                    "accumulatingPoints": 0
-                }
-            },
-            "proof": [
-                "0x0a6aad2cf661d16d86f1f638997bbbca292076dddb03e9cd9dd3507203f7c830",
-                "0x637192a54b8bdba937720774469ef4e66bef685f788d3acf76929f408a531fd1"
-            ]
-        }
-    },
-    "0xe2C3445a84de723Ef4425922165a58D22AD06e33": {
-        "0x1852756d70656c206b506f696e743a20457468656e6120533206706b53415453": {
-            "newPoints": 0,
-            "accumulatingPoints": 0,
-            "breakdown": {
-                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
-                    "newPoints": 0,
-                    "accumulatingPoints": 0
-                }
-            },
-            "proof": [
-                "0x69df988997386a5b1d811271f000cd42e0230c59e3ad1773be8fac74c8efbd5d"
-            ]
-        }
     }
 }
