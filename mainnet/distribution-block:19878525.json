@@ -1,0 +1,73 @@
+{
+    "root": "0xf50a784b9822f839cec68116068b4d6d13d910148239dce5c174c75b54def239",
+    "meta": {
+        "ETHENA_PENDLE": {
+            "lastUpdatedBlock": 19871796,
+            "previousLastUpdatedBlock": 19850367
+        }
+    },
+    "0x25E426b153e74Ab36b2685c3A464272De60888Ae": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 0,
+            "accumulatingPoints": 0,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 0,
+                    "accumulatingPoints": 0
+                }
+            },
+            "proof": [
+                "0x5d287073c2206212fe48920a5a5b122fbff3013a6423e1b9af4e69db66ecae80",
+                "0x30dd245aa4558bed113f83a60f062e8f53eef491d59df3b68556ba5b0efda1b9"
+            ]
+        }
+    },
+    "0x24C694d193B19119bcDea9D40a3b0bfaFb281E6D": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 0,
+            "accumulatingPoints": 0,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 0,
+                    "accumulatingPoints": 0
+                }
+            },
+            "proof": [
+                "0x78b52386ca001033f4b0c34167e7460240a3e1a87ad694ae71b0de24282bb0af",
+                "0x30dd245aa4558bed113f83a60f062e8f53eef491d59df3b68556ba5b0efda1b9"
+            ]
+        }
+    },
+    "0xe2C3445a84de723Ef4425922165a58D22AD06e33": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 0,
+            "accumulatingPoints": 0,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 0,
+                    "accumulatingPoints": 0
+                }
+            },
+            "proof": [
+                "0xfb628d4c2753e8806f72ec08a18cfc9bc42a7f14bdff4bd0713d7125ec6e7e3c",
+                "0xd6b65a797f6f67f1aab09bec269c4081cadf902efe10744103fa9b32b003cd01"
+            ]
+        }
+    },
+    "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 0,
+            "accumulatingPoints": 0,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 0,
+                    "accumulatingPoints": 0
+                }
+            },
+            "proof": [
+                "0x03697a424c56304e7d3a41909364d2286bb1f1ff83721d3a02ccdd8616cb3c83",
+                "0xd6b65a797f6f67f1aab09bec269c4081cadf902efe10744103fa9b32b003cd01"
+            ]
+        }
+    }
+}
