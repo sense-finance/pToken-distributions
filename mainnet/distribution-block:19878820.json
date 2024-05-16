@@ -3,7 +3,9 @@
     "meta": {
         "ETHENA_PENDLE": {
             "lastUpdatedBlock": 19871796,
-            "previousLastUpdatedBlock": 19850367
+            "previousLastUpdatedBlock": 19850367,
+            "lastUpdatedTimestamp": 1715732927,
+            "previousLastUpdatedTimestamp": 1715473667
         }
     },
     "0x25E426b153e74Ab36b2685c3A464272De60888Ae": {
