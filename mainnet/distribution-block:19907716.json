@@ -1,0 +1,129 @@
+{
+    "root": "0xf36ab2a4226e6f480955d9581011791e360753163efaae1f61db24f5fb75d680",
+    "meta": {
+        "ETHENA_PENDLE": {
+            "lastUpdatedBlock": 19883591,
+            "previousLastUpdatedBlock": 19850367,
+            "lastUpdatedTimestamp": 1715875199,
+            "previousLastUpdatedTimestamp": 1715473667
+        }
+    },
+    "0x25E426b153e74Ab36b2685c3A464272De60888Ae": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 231920000000000000,
+            "accumulatingPoints": 231920000000000000,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 231920000000000000,
+                    "accumulatingPoints": 231920000000000000
+                }
+            },
+            "proof": [
+                "0xd464bc280a891d86c8a29d93d3e69407d9d52b8dd35dc3f72cbaffa0a57f777c",
+                "0x04b9fb539d8d97c22841424759fc06763fd22e5dc807aee2581325c56e14245c",
+                "0x9671c49300824a5f543ee4831ddafb85c32b33e13765401be7e03721a13a76c0"
+            ]
+        }
+    },
+    "0x24C694d193B19119bcDea9D40a3b0bfaFb281E6D": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 9448594808333333333,
+            "accumulatingPoints": 9448594808333333333,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 9448594808333333333,
+                    "accumulatingPoints": 9448594808333333333
+                }
+            },
+            "proof": [
+                "0x80f81c7077d17149f42698e2fed0bfd8028ba328a34f13bf0ba5addc52b69484",
+                "0x04b9fb539d8d97c22841424759fc06763fd22e5dc807aee2581325c56e14245c",
+                "0x9671c49300824a5f543ee4831ddafb85c32b33e13765401be7e03721a13a76c0"
+            ]
+        }
+    },
+    "0xe2C3445a84de723Ef4425922165a58D22AD06e33": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 8109489583333333333,
+            "accumulatingPoints": 8109489583333333333,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 8109489583333333333,
+                    "accumulatingPoints": 8109489583333333333
+                }
+            },
+            "proof": [
+                "0xb756003289c9b71128800e05fc30c72477dd6dad794aa4a93079b3eded89be6b",
+                "0xfa81fd6638db4ac30f0b5c1b4c33c332e2a72a87325a795742ee478022ea5edd",
+                "0x9671c49300824a5f543ee4831ddafb85c32b33e13765401be7e03721a13a76c0"
+            ]
+        }
+    },
+    "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 3388750000000000000,
+            "accumulatingPoints": 3388750000000000000,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 3388750000000000000,
+                    "accumulatingPoints": 3388750000000000000
+                }
+            },
+            "proof": [
+                "0x63d7aef172e7b4afc80d8369a3d0593bc616e094c711696c8e43f04d25ee0586",
+                "0xfa81fd6638db4ac30f0b5c1b4c33c332e2a72a87325a795742ee478022ea5edd",
+                "0x9671c49300824a5f543ee4831ddafb85c32b33e13765401be7e03721a13a76c0"
+            ]
+        }
+    },
+    "0x028CC8E3Ff248Dc59052eaAD2a1e749F3B835B99": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 199374639827015184722,
+            "accumulatingPoints": 199374639827015184722,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 199374639827015184722,
+                    "accumulatingPoints": 199374639827015184722
+                }
+            },
+            "proof": [
+                "0x9fa286b52e215b782c6c39763174441fcff4d478924a54bb2f9c13274a77b26c",
+                "0xdc06aa23eeac474a3fb221c02bbdbbcf298fe1f980353be35c0556a0f2301d55",
+                "0xe990d035f2000707c3b66aa5251567a625cafb1945672bd3a16597047d0af8c1"
+            ]
+        }
+    },
+    "0x6CD72B1E6E300340A48943d6aF34EF5AE07D3577": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 37100000000000000000,
+            "accumulatingPoints": 37100000000000000000,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 37100000000000000000,
+                    "accumulatingPoints": 37100000000000000000
+                }
+            },
+            "proof": [
+                "0xde734f263283255e27216862834116e027b9a0e82a8f9e9256e901eb2ff041e8",
+                "0xdc06aa23eeac474a3fb221c02bbdbbcf298fe1f980353be35c0556a0f2301d55",
+                "0xe990d035f2000707c3b66aa5251567a625cafb1945672bd3a16597047d0af8c1"
+            ]
+        }
+    },
+    "0xAF9e4E01525C4856E00Cb0F363AFc34E7decD6a7": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 6741988165880404524395,
+            "accumulatingPoints": 6741988165880404524395,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 6741988165880404524395,
+                    "accumulatingPoints": 6741988165880404524395
+                }
+            },
+            "proof": [
+                "0x41a62efb14594e26e8fbd9196298bff90930a04fbefe9601af44c057b86add34",
+                "0xe990d035f2000707c3b66aa5251567a625cafb1945672bd3a16597047d0af8c1"
+            ]
+        }
+    }
+}
