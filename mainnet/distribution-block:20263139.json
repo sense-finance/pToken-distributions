@@ -1,0 +1,213 @@
+{
+    "root": "0xa3613529905bb8844dc5637515437b883783c00b96b459b0a64b3bf5a42beef9",
+    "meta": {
+        "ETHENA_PENDLE": {
+            "lastUpdatedBlock": 20258685,
+            "previousLastUpdatedBlock": 20215112,
+            "lastUpdatedTimestamp": 1720404191,
+            "previousLastUpdatedTimestamp": 1719878399
+        },
+        "ZIRCUIT_PENDLE": {
+            "lastUpdatedBlock": 20220437,
+            "previousLastUpdatedBlock": 20186347,
+            "lastUpdatedTimestamp": 1719942719,
+            "previousLastUpdatedTimestamp": 1719531383
+        }
+    },
+    "0x25E426b153e74Ab36b2685c3A464272De60888Ae": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 99747412056509214133,
+            "accumulatingPoints": 533777790728390842478,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 349120167115064575,
+                    "accumulatingPoints": 3379195155550582315
+                },
+                "0x40357b9f22B4DfF0Bf56A90661b8eC106C259d29": {
+                    "newPoints": 99398291889394149558,
+                    "accumulatingPoints": 530398595572840260163
+                }
+            },
+            "proof": [
+                "0x991fd8976022911aeb40e40bcb5754f9529f2080710f7ec1db8ace85c4f7b7f8",
+                "0xbdc35f0e04a38fe6a7c09f7b86a28e87d33b87885be913bea90e7f94cf9a480a",
+                "0x356ff65a1897bee70e94ec18de420b801469ee521bb42ec9c709d5152181ae99",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        },
+        "0x1552756d70656c20506f696e743a205a69726375697408705a49524355495400": {
+            "newPoints": 0,
+            "accumulatingPoints": 335440188667996950000,
+            "breakdown": {
+                "0x40357b9f22B4DfF0Bf56A90661b8eC106C259d29": {
+                    "newPoints": 0,
+                    "accumulatingPoints": 335440188667996950000
+                }
+            },
+            "proof": [
+                "0xbf12dfde7130a09b3be9ea66adc484976b3db114b75b661eefd65edc60af2588",
+                "0xbdc35f0e04a38fe6a7c09f7b86a28e87d33b87885be913bea90e7f94cf9a480a",
+                "0x356ff65a1897bee70e94ec18de420b801469ee521bb42ec9c709d5152181ae99",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0x24C694d193B19119bcDea9D40a3b0bfaFb281E6D": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 11895047773860922675,
+            "accumulatingPoints": 116722654970307689859,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 11895047773860922675,
+                    "accumulatingPoints": 116722654970307689859
+                }
+            },
+            "proof": [
+                "0xc9c0764390aab7e6242cdf7da76a418d56761aeac4cc5731e97d897c7e031b4a",
+                "0xf0a91244e473195bc13144bc9cee6fc924872ed8c1ee0c692682defd1e716cd8",
+                "0x356ff65a1897bee70e94ec18de420b801469ee521bb42ec9c709d5152181ae99",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0xe2C3445a84de723Ef4425922165a58D22AD06e33": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 10240858235375227540,
+            "accumulatingPoints": 100464762837487751571,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 10240858235375227540,
+                    "accumulatingPoints": 100464762837487751571
+                }
+            },
+            "proof": [
+                "0xc305ca85146fcbdb5dc5cca3fabea388985fb488f902c9c16ca9a1de6578f909",
+                "0xf0a91244e473195bc13144bc9cee6fc924872ed8c1ee0c692682defd1e716cd8",
+                "0x356ff65a1897bee70e94ec18de420b801469ee521bb42ec9c709d5152181ae99",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0xD6633c1382896079D3576eC43519d844a8C80B56": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 5818669451917742920,
+            "accumulatingPoints": 55830495006742426775,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 5818669451917742920,
+                    "accumulatingPoints": 55830495006742426775
+                }
+            },
+            "proof": [
+                "0xb605c6d24f4591b726ca75a2244f789388c19ffebedd76217fe0eda994f0a8a4",
+                "0xadf60b9f8e87efa4eeae3b1e82f4036c37dc71fbfabed2125a1428c7e74e1dab",
+                "0xfb740868a4f06c1b9e23544682e14d4bd86919ece6acf67a93b016612a03a0e3",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0x028CC8E3Ff248Dc59052eaAD2a1e749F3B835B99": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 0,
+            "accumulatingPoints": 4977606283426392328730,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 0,
+                    "accumulatingPoints": 4977606283426392328730
+                }
+            },
+            "proof": [
+                "0x5652079402c72b2fdb1520fe9edbfad2351f6c54bc83a6ac9c173019096be4c5",
+                "0xadf60b9f8e87efa4eeae3b1e82f4036c37dc71fbfabed2125a1428c7e74e1dab",
+                "0xfb740868a4f06c1b9e23544682e14d4bd86919ece6acf67a93b016612a03a0e3",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0x6CD72B1E6E300340A48943d6aF34EF5AE07D3577": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 232746778076709716833,
+            "accumulatingPoints": 2132117192851361184860,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 232746778076709716833,
+                    "accumulatingPoints": 2132117192851361184860
+                }
+            },
+            "proof": [
+                "0x71d71236d4cc149bb52474d256089b591031cb42df9e9c44ec6a54bd85298916",
+                "0x81b70963d5d6efe8e218e14f761913d676bb0cc666fbb8f027a02bf17dfee2bb",
+                "0xfb740868a4f06c1b9e23544682e14d4bd86919ece6acf67a93b016612a03a0e3",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0xAF9e4E01525C4856E00Cb0F363AFc34E7decD6a7": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 42978040812415481452875,
+            "accumulatingPoints": 393596118801481192260821,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 42978040812415481452875,
+                    "accumulatingPoints": 393596118801481192260821
+                }
+            },
+            "proof": [
+                "0xbbb5f3c45b7676499997ab04194937c4e15e0e13a0b499499c41157cf24fc30d",
+                "0x81b70963d5d6efe8e218e14f761913d676bb0cc666fbb8f027a02bf17dfee2bb",
+                "0xfb740868a4f06c1b9e23544682e14d4bd86919ece6acf67a93b016612a03a0e3",
+                "0x1ece143617eee2c2fe047d77eea2fc99888b2102a220d02f217f36a85031483d"
+            ]
+        }
+    },
+    "0x0e7518B332F469a6A2F59E690F225cef5157cca9": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 23817528120616643085186,
+            "accumulatingPoints": 190653459758179494306268,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 23817528120616643085186,
+                    "accumulatingPoints": 190653459758179494306268
+                }
+            },
+            "proof": [
+                "0x1f40f09af5dbcde287279d037d2be8bf644acbafcb1e87f7fc1735ad5f67afb7",
+                "0xac1692039923ae65d73e1910e129361cf5ba52e70dabffc5aa27922988a15753",
+                "0x0dd6301ca2ba5fffa01acfa4fa2f695daa45c1c661ca5b99cf8dd4248bd98ff5"
+            ]
+        }
+    },
+    "0x347ab2e403710583Ade28Ef0871e73581599C8C8": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 134318931224663785804137,
+            "accumulatingPoints": 585878509921233721744971,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 134318931224663785804137,
+                    "accumulatingPoints": 585878509921233721744971
+                }
+            },
+            "proof": [
+                "0x410f842fe31fe1f13eb924977870a6938cd7be3f6c1ded0954fe1b6ae03f1a30",
+                "0xac1692039923ae65d73e1910e129361cf5ba52e70dabffc5aa27922988a15753",
+                "0x0dd6301ca2ba5fffa01acfa4fa2f695daa45c1c661ca5b99cf8dd4248bd98ff5"
+            ]
+        }
+    },
+    "0x1d848bf0dcF1b48f5621c37d062f2696D9d71AC4": {
+        "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
+            "newPoints": 232746778076709716833696,
+            "accumulatingPoints": 1698173882339284909463609,
+            "breakdown": {
+                "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07": {
+                    "newPoints": 232746778076709716833696,
+                    "accumulatingPoints": 1698173882339284909463609
+                }
+            },
+            "proof": [
+                "0xae69c864150445a4dbaec1313d33faaa29e3943808af81b905d61c3d6e4840ff",
+                "0x0dd6301ca2ba5fffa01acfa4fa2f695daa45c1c661ca5b99cf8dd4248bd98ff5"
+            ]
+        }
+    }
+}
