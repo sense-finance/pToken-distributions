@@ -1,5 +1,5 @@
 {
-    "root": "0xfc3da1aa38d77431a0e83b5c32e961d7133ad23e1d6b5b3eb915518341a605ea",
+    "root": "0xd631e0fd0302563c5a92659c93c32c10455ef0dcab4e423bd2b341ef2e162243",
     "meta": {
         "ETHENA_PENDLE": {
             "lastUpdatedBlock": 20387000,
@@ -8,7 +8,7 @@
             "previousLastUpdatedTimestamp": 1721606411
         }
     },
-    "0x3D49dEa4035432968a531e663CDA96255867BFc1": {
+    "0xc14386A029423A6F53f1F67A8D3A28D9C462Db44": {
         "0x1852756d70656c206b506f696e743a20457468656e61205332066b7053415453": {
             "newPoints": 7930031840109298837,
             "accumulatingPoints": 7930031840109298837,
@@ -19,7 +19,7 @@
                 }
             },
             "proof": [
-                "0xa110ddb21d1806016cf962af0546157e304ab9848521a508dc739173356c2bd6"
+                "0x014dc921ca2a46e8c227e96480880fc4871824ccdc98a2e2fa99d04e1a8347fe"
             ]
         }
     }
